@@ -1,16 +1,16 @@
 # testing code here 
 
-# logic 
-
 from itertools import dropwhile
 
 import easygopigo3 as easy
 
 my_gopigo = easy.EasyGoPiGo3()
 
-my_gopigo.drive_inches(119)
+my_gopigo.drive_inches(130)
 my_gopigo.turn_degrees(180)
-my_gopigo.drive_inches(119)
+# my_gopigo.drive_inches(119)
+
+# TODO for later 
 
 # install cam 
 # find a way for the camera to follow an item we drop
