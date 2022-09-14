@@ -1,7 +1,6 @@
 # Team member names: Trang Hoang, Gary Chen
 
-## Participation in Races 
-
+## Participation in Races
 Specific decisions made in the implementation:
 
 - Robot's name: Shield-Bot
@@ -22,16 +21,13 @@ Ethical or aggressive behavior of the robot for each race:
 
 - Community Demonstrations: the Shield-Bot robot goes around a certain place, finds the lost item, and brings it back to the starting point
 
-### Idea 
-
+### Idea
 A robot that can help you find things using a camera and sensor. For example, you drop something on the ground and the robot will try to find it for you. My motivation for this idea is that when we construct the robot in the lab, we might drop some of our components on the ground. It is hard to find these components because it is so tiny. This robot will help us to solve this problem.
 
-### Requested Components 
-
+### Requested Components
 Requested components: sensor, camera, robot's hands (to grab and lift items) 
 
-### Schedule 
-
+### Schedule
 TIMELINE
 Tasks: finalize ideas about Robot Design for Community Demonstrations | Dates: September 15th
 Tasks: Developing process | Dates: September 15th to September 27th
@@ -49,8 +45,7 @@ Tasks: Demo and Final Submission | Dates: September 27th
 
 - Biggest learning takeaways:
 
-## Team Work 
-
+## Team Work
 - Team working strategy:
 
 - Team member's contributions:
