@@ -28,7 +28,7 @@ A robot that can help you find things using a camera and sensor. For example, yo
 
 ### Requested Components
 
-Requested components: sensor, camera, robot's hands (to grab and lift items) 
+Requested components: sensor, camera, robot's hands (to grab and lift items)
 
 ### Schedule
 
@@ -40,13 +40,13 @@ Tasks: Developing process | Dates: September 15th to September 27th
 
 Tasks: Demo and Final Submission | Dates: September 27th
 
-## Robot for Community Demonstrations 
+## Robot for Community Demonstrations
 
 - Specific detail of the implementation and design:
 
-- Educational efforts of using robots: encourage others to use robots to solve problems in life, foster creativity 
+- Educational efforts of using robots: encourage others to use robots to solve problems in life, foster creativity
 
-## Challenges and Learning Experiences 
+## Challenges and Learning Experiences
 
 - Challenges: find the way to program the robot so it can work properly, find the right components for the robot, and ensure the robot doesn't do anything that can harm the community
 
