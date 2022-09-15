@@ -28,7 +28,11 @@ A robot that can help you find things using a camera and sensor. For example, yo
 
 ### Requested Components
 
-Requested components: sensor, camera, robot's hands (to grab and lift items)
+Requested components: 
+
+- Distance sensor: https://www.dexterindustries.com/store/distance-sensor/
+
+- Robot's hands (to grab and lift items)
 
 ### Schedule
 
