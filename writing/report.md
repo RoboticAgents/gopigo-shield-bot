@@ -32,8 +32,6 @@ Requested components:
 
 - Distance sensor: https://www.dexterindustries.com/store/distance-sensor/
 
-- Robot's hands (to grab and lift items)
-
 ### Schedule
 
 TIMELINE
