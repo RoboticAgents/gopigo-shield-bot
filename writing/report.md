@@ -24,15 +24,13 @@ Ethical or aggressive behavior of the robot for each race:
 
 ### Idea
 
-A robot that can help you find things using a camera and sensor. For example, you drop something on the ground and the robot will try to find it for you. My motivation for this idea is that when we construct the robot in the lab, we might drop some of our components on the ground. It is hard to find these components because it is so tiny. This robot will help us to solve this problem.
+A robot that can help you find things using a camera and sensor. For example, you drop something on the ground and the robot will try to find it for you. My motivation for this idea is that when we construct the robot in the lab, we might drop some of our components on the ground. It is hard to find these components, because they are so tiny. This robot will help us to solve this problem.
 
 ### Requested Components
 
 Requested components: 
 
 - Distance sensor: https://www.dexterindustries.com/store/distance-sensor/
-
-- Robot's hands (to grab and lift items)
 
 ### Schedule
 
