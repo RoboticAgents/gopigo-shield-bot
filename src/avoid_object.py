@@ -9,7 +9,7 @@ min_distance = 250 # in (mm)
 t = 0  
 pygame.mixer.init()    
 pygame.mixer.music.load("music.mp3")
-mixer.music.set_volume(1.0)
+pygame.mixer.music.set_volume(1)
 pygame.mixer.music.play()
      
 while t <= max_dis_t:
@@ -23,6 +23,8 @@ while t <= max_dis_t:
     if my_distance_sensor.read_mm() > min_distance:
         gpg.drive_inches(5)       
     else: 
-        gpg.turn_degrees(90) # turn right       
+        gpg.turn_degrees(90)    # turn right   
+#         if my_distance_sensor.read_mm() < min_distance:
+#             gpg.turn_degrees(-180)   # turn left      
 
-mixer.music.stop()
+pygame.mixer.music.stop()
