@@ -31,7 +31,7 @@ A robot that can help you find things using a camera and sensor. For example, yo
 Requested components: 
 
 - Distance sensor: https://www.dexterindustries.com/store/distance-sensor/
-
+- Speaker: https://www.dexterindustries.com/store/speaker-for-raspberry-pi/
 ### Schedule
 
 TIMELINE
