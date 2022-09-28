@@ -14,9 +14,7 @@ A robot can go around, avoid objects, and play music at the same time. The Shiel
 
 ### Requested Components
 
-Requested components:
-Distance sensor: https://www.dexterindustries.com/store/distance-sensor/
-Speaker: https://www.dexterindustries.com/store/speaker-for-raspberry-pi/
+Requested components: [Distance sensor](https://www.dexterindustries.com/store/distance-sensor/), [Speaker](https://www.dexterindustries.com/store/speaker-for-raspberry-pi/)
 
 ### Schedule
 
@@ -31,8 +29,8 @@ Specific detail of the implementation and design: the Shield-Bot robot uses dist
 
 ## Challenges and Learning Experiences
 
-Challenges: find the way to program the robot so it can work properly, find the right components for the robot, and ensure the robot doesn't do anything that can harm the community. Our first idea was to difficult for the implement process, we need to change our idea to turn the project into reality. In the testing process,sometimes the robot does not work like we expect, so testing multiple times before it goes to demonstration is the solution for this problem. The robot does not stay in a certain place, it moves. So, we need to tie the components like speakers and sensor to its body and make sure they will not fall of the ground while running. 
-Biggest learning takeaways: communication in team works, improve programming and testing skills, getting the robot to interact with the surrounding environment. 
+Challenges: find the way to program the robot so it can work properly, find the right components for the robot, and ensure the robot doesn't do anything that can harm the community. Our first idea was to difficult for the implement process, we need to change our idea to turn the project into reality. In the testing process,sometimes the robot does not work like we expect, so testing multiple times before it goes to demonstration is the solution for this problem. The robot does not stay in a certain place, it moves. So, we need to tie the components like speakers and sensor to its body and make sure they will not fall of the ground while running.
+Biggest learning takeaways: communication in team works, improve programming and testing skills, getting the robot to interact with the surrounding environment.
 
 ## Team Work
 
@@ -40,6 +38,6 @@ Team working strategy: communication is the key to teamwork, have a clear plan w
 
 - Team member's contributions:
 
-+ Trang Hoang: create ideas, write the report, code, test, design the robot
+    - Trang Hoang: create ideas, write the report, code, test, design the robot
 
-+ Gary Chen: create ideas, write the report, code, test, design the robot
+    - Gary Chen: create ideas, write the report, code, test, design the robot
