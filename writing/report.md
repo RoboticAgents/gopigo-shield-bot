@@ -19,8 +19,11 @@ Requested components: [Distance sensor](https://www.dexterindustries.com/store/d
 ### Schedule
 
 TIMELINE
+
 Tasks: finalize ideas about Robot Design for Community Demonstrations | Dates: September 15th
+
 Tasks: Developing process | Dates: September 15th to September 25th
+
 Tasks: Demo and Final Submission | Dates: September 27th
 
 ## Robot for Community Demonstrations
