@@ -36,7 +36,7 @@ Biggest learning takeaways: communication in team works, improve programming and
 
 Team working strategy: communication is the key to teamwork, have a clear plan while working so each member can contribute to the project and finish the work before the deadline.
 
-- Team member's contributions:
+Team member's contributions:
 
 - Trang Hoang: create ideas, write the report, code, test, design the robot
 
