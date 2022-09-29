@@ -32,11 +32,11 @@ jobs:
           uses: DavidAnson/markdownlint-cli2-action@v4
           with:
             globs: writing/report.md
-        - name: Check Spelling
-          uses: zwaldowski/cspell-action@v1
-          with:
-            paths: "writing/report.md"
-            config: .github/cspell.json
+        #- name: Check Spelling
+        #  uses: zwaldowski/cspell-action@v1
+        #  with:
+        #    paths: "writing/report.md"
+        #    config: .github/cspell.json
         # Setup Python for the current language version
         - name: Setup Python ${{ matrix.python-version }}
           if: always()
