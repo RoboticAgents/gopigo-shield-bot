@@ -40,6 +40,6 @@ Team working strategy: communication is the key to teamwork, have a clear plan w
 
 Team member's contributions:
 
-- Trang Hoang: create ideas, write the report, code, test, design the robot
+- Trang Hoang: create ideas, write the report, code, test, design the robot pipx
 
 - Gary Chen: create ideas, write the report, code, test, design the robot
