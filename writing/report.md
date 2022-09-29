@@ -32,8 +32,7 @@ Specific detail of the implementation and design: the Shield-Bot robot uses dist
 
 ## Challenges and Learning Experiences
 
-Challenges: find the way to program the robot so it can work properly, find the right components for the robot, and ensure the robot doesn't do anything that can harm the community. Our first idea was to difficult for the implement process, we need to change our idea to turn the project into reality. In the testing process, sometimes the robot does not work like we expect, so testing multiple times before it goes to demonstration is the solution for this problem. The robot does not stay in a certain place, it moves. So, we need to tie the components like speaker and sensor to its body, and make sure they will not fall off the ground while running.
-Biggest learning takeaways: communication in team works, improve programming and testing skills, getting the robot to interact with the surrounding environment.
+Challenges: find the way to program the robot so it can work properly, find the right components for the robot, and ensure the robot does not do anything that can harm the community. Our first idea was to difficult for the implement process, we need to change our idea to turn the project into reality. In the testing process, sometimes the robot does not work like we expect, so testing multiple times before it goes to demonstration is the solution for this problem. The robot does not stay in a certain place, it moves. So, we need to tie the components like speaker and sensor to its body, and make sure they will not fall off the ground while running. Biggest learning takeaways: communication in team works, improve programming and testing skills, getting the robot to interact with the surrounding environment.
 
 ## Team Work
 
