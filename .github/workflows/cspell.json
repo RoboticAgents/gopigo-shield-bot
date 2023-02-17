@@ -14,7 +14,10 @@
         "git",
         "gitignore",
         "github",
-        "gatorgrader"
+        "gatorgrader",
+        "Trang",
+        "Hoang",
+        "Pygame"
     ],
     "ignorePaths": [
         ".github/**"
